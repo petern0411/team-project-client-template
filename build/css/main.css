@@ -65,3 +65,26 @@ nav div.nav-center > button {
 .account-name-toggle {
   color: #9AD58E !important;
 }
+
+
+form{
+  margin:0 auto;
+  width: 700;
+  padding: 1em;
+  border: 1px solid black;
+  border-radius: 1em;
+  background-color: white;
+}
+
+/*label{
+  text-align: right;
+  margin-right: 30px;
+}
+ input{
+  display: inline-block;
+ }
+*/
+
+
+
+
